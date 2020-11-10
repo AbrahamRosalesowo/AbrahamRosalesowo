@@ -5,9 +5,9 @@
 
 ### Mis redes sociales:
 
-+ [Mi twitter](https://twitter.com/_AbrahamRosales)  
-+ [Mi instagram](https://www.instagram.com/_.abrahamrosales._/)
-+ [Mi sitio web](https://abrahamrosales.com)
-+ [Mi facebook](https://www.facebook.com/profile.php?id=100055858146134)
++ [My twitter](https://twitter.com/_AbrahamRosales)  
++ [My instagram](https://www.instagram.com/_.abrahamrosales._/)
++ [My sitio web](https://abrahamrosales.com)
++ [My facebook](https://www.facebook.com/profile.php?id=100055858146134)
 
 ## Check out my awesome projects, I'm sure you going to have a good impression... or not... ok, I don't know...
