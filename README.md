@@ -1,12 +1,13 @@
-# Hola, soy Abraham Rosales
-## Un desarrollador de Durango
+# Hi! I'm Abraham Rosales
+## A selftaught, fulltime, fullstack web developer
 
-#### Desarrollo aplicacines web (por el momento)
+#### I develop handsome web applications (at the moment, I want to develop other type of apps)
 
 ### Mis redes sociales:
 
 + [Mi twitter](https://twitter.com/_AbrahamRosales)  
-+ [Mi instagram](https://www.instagram.com/_.abrahamrosales._/)  
++ [Mi instagram](https://www.instagram.com/_.abrahamrosales._/)
 + [Mi sitio web](https://abrahamrosales.com)
++ [Mi facebook](https://www.facebook.com/profile.php?id=100055858146134)
 
-## Revisa mis proyectos, sé que te quedarás con un buena impresión, yo lo sé... o no, no sé
+## Check out my awesome projects, I'm sure you going to have a good impression... or not... ok, I don't know...
