@@ -2,7 +2,7 @@
 ## A selftaught, fulltime, fullstack web developer
 
 #### I develop handsome web applications (at the moment, I want to develop other type of apps)
-#### Actually I'm working in projects that will make me able to improve my coding skills!
+#### Actually I'm working in projects that will make me able to improve my coding skills! and my english skills
 
 ### My social media:
 
